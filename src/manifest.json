@@ -1,0 +1,22 @@
+{
+	"name": "Windows CLassic",
+	"version": "1.0",
+	"description": "The Windows 95/98 theme",
+	"manifest_version": 3,
+	"theme": {
+		"images": {
+			"theme_tab_background": "images/theme_tab_background.png",
+			"theme_tab_background_inactive": "images/theme_tab_background_inactive.png"
+		},
+		"colors": {
+			"frame": [0, 0, 128],
+			"frame_inactive": [128, 128, 128],
+			"tab_text": [0, 0, 0],
+			"tab_background_text": [192, 192, 192],
+			"toolbar": [192, 192, 192],
+			"bookmark_text": [0, 0, 0],
+			"ntp_background": [192, 192, 192],
+			"ntp_text": [0, 0, 0]
+		}
+	}
+}
